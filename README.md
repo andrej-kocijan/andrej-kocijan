@@ -1,6 +1,6 @@
 ### Andrej Kocijan 💻
 
-![Ciko's GitHub stats](https://github-readme-stats-one-kappa-98.vercel.app/api?username=andrej-kocijan&hide=stars)
+![Ciko's GitHub stats](https://github-readme-stats-one-kappa-98.vercel.app/api?username=andrej-kocijan&hide=stars&theme=transparent)
 <!--
 **andrej-kocijan/andrej-kocijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
